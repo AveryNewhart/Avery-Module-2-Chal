@@ -1,4 +1,4 @@
-# Deployed Portfolio by Avery Newhart
+# Personal Portfolio of Avery Newhart
 
 ## Description
 
