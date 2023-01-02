@@ -14,6 +14,6 @@ N/A
 
 ## Usage
 
-![screenshot of website](./assets/images/mod2web.png)
+![screenshot of website](./assets/images/newSSnet.png)
 
 - Link to webpage https://averynewhart.github.io/Avery-Portfolio/
