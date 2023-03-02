@@ -127,6 +127,23 @@ replaced by just the links.*/
     .bg {
         display: none;
     }
+    .corners {
+        background-color: black;
+      }
+    
+    .head-col {
+        background-color: black;
+    }
+    
+    .body-div {
+        background-color: black;
+    }
+    .content-div {
+        background-color: black;
+    }
+    .size {
+        margin-top: 2vh;
+    }
 }
 
 @media (max-width: 1052px) {
@@ -136,6 +153,23 @@ replaced by just the links.*/
     }
     .bg {
         display: none;
+    }
+    .corners {
+        background-color: black;
+      }
+    
+    .head-col {
+        background-color: black;
+    }
+    
+    .body-div {
+        background-color: black;
+    }
+    .content-div {
+        background-color: black;
+    }
+    .size {
+        margin-top: 2vh;
     }
 }
 
