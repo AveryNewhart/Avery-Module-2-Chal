@@ -128,18 +128,18 @@ replaced by just the links.*/
         display: none;
     }
     .corners {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
       }
     
     .head-col {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     
     .body-div {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     .content-div {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     .size {
         margin-top: 2vh;
@@ -155,18 +155,18 @@ replaced by just the links.*/
         display: none;
     }
     .corners {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
       }
     
     .head-col {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     
     .body-div {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     .content-div {
-        background-color: black;
+        background-color: rgba(0,0,0,.5);
     }
     .size {
         margin-top: 2vh;
