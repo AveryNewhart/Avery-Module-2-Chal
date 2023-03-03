@@ -16,6 +16,7 @@ nav {
 
 nav	a {
 		color: #c10206;
+        font-weight: bolder;
 }
 
 nav a:hover {
@@ -116,10 +117,15 @@ img {
 
 /*Adjust breakpoint as desired to select when the "hamburger" menu is
 replaced by just the links.*/
-@media (max-width: 480px) {
+@media (max-width: 610px) {
     nav .navWide {
 		display: block;
 	}
+
+    nav a {
+        font-size: 10px;
+    }
+
     .size {
         padding-right: 20vw;
         padding-left: 20vw;
@@ -132,7 +138,7 @@ replaced by just the links.*/
       }
     
     .head-col {
-        background-color: rgba(0,0,0,.5);
+        background-color: rgba(0, 0, 0, .5);
     }
     
     .body-div {
@@ -146,7 +152,7 @@ replaced by just the links.*/
     }
 }
 
-@media (max-width: 1052px) {
+@media (max-width: 1160px) {
 	.size {
         padding-right: 20vw;
         padding-left: 20vw;
